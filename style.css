@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 1px solid lightcyan;
+    border-radius: 10px;
+    background-color: lightcyan;
+    padding: 10px;
+}
+header a {
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    color: darkblue;
+}
+h1 {
+    text-align: center;
+    background-color: lightcyan;
+    border: 1px solid lightcyan;
+    border-radius: 10px;
+    color: darkblue;
+}
+footer {
+    background-color: lightcyan;
+    border: 1px solid lightcyan;
+    border-radius: 10px;
+}
+footer p {
+   background-color: white;
+   border: 5px solid darkblue;
+   border-radius: 10px; 
+   color: darkblue;
+   padding: 10px;
+}
+.a1 {
+    background-color: lightcyan;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+nav a {
+    background-color: white;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: darkblue;
+}
+.i1{
+    background-color: lightcyan;
+   border: 5px solid darkblue;
+   border-radius: 10px; 
+   color: darkblue;
+   padding: 10px;
+}
+main h2 {
+    background-color: darkblue;
+   border: 5px solid lightcyan;
+   border-radius: 10px; 
+   color: lightcyan;
+   padding: 10px;
+   font-size: 25px;
+}
+main p{
+    font-size: 20px;
+}
